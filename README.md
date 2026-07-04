@@ -3,7 +3,7 @@
 
 ## Project Title
 
-**Write the full title of your project here**
+Multipurpose Autonomous Navigation Robot with Arm
 
 ---
 
@@ -11,16 +11,16 @@
 
 | Sr. No. | Name of Student | Roll No. | Branch | Email ID |
 |---|---|---|---|---|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
+| 1 |Krishnakumar Nadar  | 21 | AURO |  |
+| 2 |Piyush Patil  | 24 | AURO |  |
+| 3 |Sumeet Hinduja  | 8 | AURO |  |
+| 4 |Aryan Sahu | 28 | AURO |  |
 
 ---
 
 ## Guide Details
 
-**Project Guide:**  
+**Project Guide:Dr.Nilima Warke**  
 **Department:** Automation and Robotics  
 **Institute:** VESIT, Mumbai  
 
