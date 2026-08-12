@@ -29,7 +29,7 @@ Multipurpose Autonomous Navigation Robot with Arm
 
 ##
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KK-MWK9cCMU/0.jpg)](https://www.youtube.com/watch?v=KK-MWK9cCMU)
+[![Watch the video](https://img.youtube.com/vi/KK-MWK9cCMU/maxresdefault.jpg)](https://www.youtube.com/watch?v=KK-MWK9cCMU)
 
 ## Problem Statement
 
