@@ -26,10 +26,9 @@ Multipurpose Autonomous Navigation Robot with Arm
 
 ---
 
+## 🎥 Project Proposal
 
-##
-
-[![Watch the video](https://img.youtube.com/vi/KK-MWK9cCMU/maxresdefault.jpg)](https://www.youtube.com/watch?v=KK-MWK9cCMU)
+[![Watch the video](images/maxresdefault.jpg)](https://www.youtube.com/watch?v=KK-MWK9cCMU)
 
 ## Problem Statement
 
