@@ -538,17 +538,6 @@ The robot operates as a **mobile manipulator**, combining autonomous mobility wi
 
 ---
 
-# 🎬 DEMONSTRATION
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=KK-MWK9cCMU">
-    <img src="https://img.youtube.com/vi/KK-MWK9cCMU/maxresdefault.jpg" width="750">
-  </a>
-</p>
-
-<p align="center">
-  <b>▶️ CLICK THE IMAGE TO WATCH THE PROJECT DEMONSTRATION</b>
-</p>
 
 ---
 
