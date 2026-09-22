@@ -426,8 +426,8 @@ The robot operates as a **mobile manipulator**, combining autonomous mobility wi
 
 | PARAMETER | RESULT |
 |---|---:|
-| 🎯 Object Detection Accuracy | `TODO %` |
-| ⚡ Detection FPS | `TODO FPS` |
+| 🎯 Object Detection Accuracy | `Working on it but still 55%` |
+| ⚡ Detection FPS | ` 21 ms  FPS` |
 | 🧭 Navigation Success Rate | `TODO %` |
 | 🦾 Pick-and-Place Success Rate | `TODO %` |
 | ⏱️ Average Navigation Time | `TODO sec` |
@@ -631,10 +631,10 @@ The robot operates as a **mobile manipulator**, combining autonomous mobility wi
 | 📅 WEEK | 📝 PLANNED WORK | 🚦 STATUS |
 |:---:|---|:---:|
 | **Week 1** | Problem Finalization | ✅ Complete |
-| **Week 2** | Literature Survey | `TODO` |
-| **Week 3** | Requirement Analysis | `TODO` |
-| **Week 4** | System Design | `TODO` |
-| **Week 5** | Prototype Development | `TODO` |
+| **Week 2** | Object Detection Model Start | `Complete` |
+| **Week 3** | Requirement Analysis | `Complete` |
+| **Week 4** | System Design | `Ongoing` |
+| **Week 5** | Prototype Development | `Ongoing` |
 | **Week 6** | Testing | `TODO` |
 | **Week 7** | Documentation | `TODO` |
 | **Week 8** | Paper Writing | `TODO` |
@@ -654,9 +654,9 @@ The robot operates as a **mobile manipulator**, combining autonomous mobility wi
 
 | 📅 WEEK | 📆 DATE | ✅ WORK COMPLETED | 🎯 NEXT WEEK | ⚠️ ISSUES / CHALLENGES | 🔗 COMMIT |
 |:---:|:---:|---|---|---|:---:|
-| **01** | `DD/MM/YYYY` | `TODO` | `TODO` | `TODO` | `[Commit](#)` |
-| **02** | `DD/MM/YYYY` | `TODO` | `TODO` | `TODO` | `[Commit](#)` |
-| **03** | `DD/MM/YYYY` | `TODO` | `TODO` | `TODO` | `[Commit](#)` |
+| **01** | `10/08/2026` | `Object Detection YOLO model making` | `Improvising It` | `Some problems in detecting it` | `[Commit](#)` |
+| **02** | `20/08/2026` | `Arm Designing` | `Gear for the Arm Desigining` | `Robot Body Designing` | `[Commit](#)` |
+| **03** | `DD/MM/YYYY` | `Yolo Model Prediction` | `Navigation through Sensors` | `Poor Sensing ` | `[Commit](#)` |
 | **04** | `DD/MM/YYYY` | `TODO` | `TODO` | `TODO` | `[Commit](#)` |
 | **05** | `DD/MM/YYYY` | `TODO` | `TODO` | `TODO` | `[Commit](#)` |
 | **06** | `DD/MM/YYYY` | `TODO` | `TODO` | `TODO` | `[Commit](#)` |
